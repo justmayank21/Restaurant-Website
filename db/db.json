@@ -1,0 +1,84 @@
+{
+  "user": [
+    {
+      "name": "shubham",
+      "email": "ok@gmail.com",
+      "password": 456,
+      "id": 1
+    },
+    {
+      "name": "anil",
+      "email": "anil@gmail.com",
+      "password": 768,
+      "id": 2
+    },
+    {
+      "name": "toy",
+      "email": "toy@gmail.com",
+      "password": "sd",
+      "id": 3
+    },
+    {
+      "name": "asd",
+      "email": "afda@gmail.com",
+      "password": "sdfds",
+      "id": 4
+    },
+    {
+      "name": "sdfds",
+      "email": "dfdsa@gmail.com",
+      "password": "adfs",
+      "id": 6
+    },
+    {
+      "name": "dscdsds",
+      "email": "dsfs@gmail.com",
+      "password": "qdew",
+      "id": 7
+    },
+    {
+      "name": "dfs",
+      "email": "dfre@gmail.com",
+      "password": "fdsads",
+      "id": 8
+    },
+    {
+      "name": "dsf",
+      "email": "dsf@gmail.com",
+      "password": "asda",
+      "id": 9
+    },
+    {
+      "name": "tony",
+      "email": "tony@gamil.com",
+      "password": "dasf",
+      "id": 10
+    }
+  ],
+  "restaurant": [
+    {
+      "name": "KFC",
+      "contact": "1111",
+      "address": "Noida Sector 60",
+      "id": 1
+    },
+    {
+      "id": 2,
+      "name": "Dominos",
+      "contact": "2222",
+      "address": "Karol Bagh"
+    },
+    {
+      "id": 3,
+      "name": "Taco Bell",
+      "contact": "3333",
+      "address": "JLN Stadium"
+    },
+    {
+      "name": "Pizza Hut",
+      "contact": "3222",
+      "address": "Boring Road",
+      "id": 4
+    }
+  ]
+}
